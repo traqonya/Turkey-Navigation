@@ -1,7 +1,5 @@
 # Turkey-Navigation
 
-Here’s a README description you can use for your GitHub project:
-
 ---
 
 # Turkey Navigation
