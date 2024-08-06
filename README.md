@@ -1,7 +1,3 @@
-# Turkey-Navigation
-
----
-
 # Turkey Navigation
 
 **Turkey Navigation** is a Java application that finds the shortest path between cities based on their geographical coordinates and connections. Utilizing Dijkstra's algorithm, this program efficiently calculates the optimal route, visualizing the results on a map.
